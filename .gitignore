@@ -15,4 +15,3 @@ figwheel_server.log
 /node_modules
 /resources/public/js/*
 !/resources/public/js/reagent_stripe_elements_demo.min.js
-
