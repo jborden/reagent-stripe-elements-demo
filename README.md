@@ -1,13 +1,16 @@
 # reagent-stripe-elements-demo
 
-based on
+Based on
+
 https://github.com/stripe/react-stripe-elements
 https://jsfiddle.net/g9rm5qkt/
 
 Live demo 
+
 https://jborden.github.com/reagent-stripe-elements-demo
 
 Accompanying blog post
+
 https://jborden.github.io/2018/02/18/reagent-stripe-elements
 
 # Setup
