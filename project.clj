@@ -3,7 +3,6 @@
   :url "http://jborden.github.io/reagent-stripe-elements"
   :dependencies [[org.clojure/clojure "1.8.0"]
                  [org.clojure/clojurescript "1.9.225"]
-                 [cljsjs/stripe "2.0-0"]
                  [cljsjs/react-stripe-elements "1.4.1-1"]
                  [reagent "0.7.0"]]
   :jvm-opts ^:replace ["-Xmx1g" "-server"]

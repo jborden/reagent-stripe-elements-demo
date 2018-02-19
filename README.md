@@ -13,7 +13,7 @@ Accompanying blog post
 
 https://jborden.github.io/2018/02/18/reagent-stripe-elements
 
-# Setup
+# Dev Setup
 
 run 
 ```
@@ -29,7 +29,20 @@ Connect to http://localhost:3449/
 
 Edit resources/public/index.html
 
+# Production Setup
 
+run
+```
+$ lein cljsbuild once production
+```
+
+Start the node.js server
+
+```
+$ node server.js
+```
+
+Connect to http://localhost:8080
 Copyright © 2018 James Borden
 
 Distributed under the MIT License
